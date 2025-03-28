@@ -5,7 +5,7 @@ from SUKOON_MUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "SUKOON_MUSIC"
+MUST_JOIN = "YASH_ABOUT_XD_lll"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
@@ -26,8 +26,8 @@ async def must_join_channel(app: Client, msg: Message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("• ᴊᴏɪɴ •", url=link),
-                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/lll_Oye_Zayn_lll"),
+                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/TEAM_BADNAM_BOTS"),
+                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/YASH_ABOUT_XD_lll"),
                             ]
                         ]
                     )
