@@ -26,6 +26,8 @@ from SUKOON_MUSIC.utils.inline import help_pannel, private_panel, start_panel
 from config import BANNED_USERS
 from strings import get_string
 
+#--------------------------
+
 NEXI_VID = [
 "https://telegra.ph/file/1a3c152717eb9d2e94dc2.mp4",
 "https://files.catbox.moe/ln00jb.mp4",
@@ -34,8 +36,6 @@ NEXI_VID = [
 "https://graph.org/file/318eac81e3d4667edcb77.mp4",
 "https://graph.org/file/7c1aa59649fbf3ab422da.mp4",
 "https://files.catbox.moe/t0nepm.mp4",
-    
-]
 
 ]
 
