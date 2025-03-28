@@ -26,28 +26,15 @@ from SUKOON_MUSIC.utils.inline import help_pannel, private_panel, start_panel
 from config import BANNED_USERS
 from strings import get_string
 
-#--------------------------
-
-NEXIO = [
-    "https://files.catbox.moe/4q7c4w.jpg",
-    "https://files.catbox.moe/90z6sq.jpg",
-    "https://files.catbox.moe/rdfi4z.jpg",
-    "https://files.catbox.moe/6f9rgp.jpg",
-    "https://files.catbox.moe/99wj12.jpg",
-    "https://files.catbox.moe/ezpnd2.jpg",
-    "https://files.catbox.moe/e7q55f.jpg",
-    "https://files.catbox.moe/qyfsi7.jpg",
-    "https://files.catbox.moe/kbke7s.jpg",
-    "https://files.catbox.moe/7icvpu.jpg",
-    "https://files.catbox.moe/4hd77z.jpg",
-    "https://files.catbox.moe/yn7wje.jpg",
-    "https://files.catbox.moe/kifsir.jpg",
-    "https://files.catbox.moe/zi21kc.jpg",
-    "https://files.catbox.moe/z0gh23.jpg",
-    "https://files.catbox.moe/f2s4ws.jpg",
-    "https://files.catbox.moe/26nzoq.jpg",
-    "https://files.catbox.moe/fu6jk3.jpg",
-    "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg",
+NEXI_VID = [
+"https://telegra.ph/file/1a3c152717eb9d2e94dc2.mp4",
+"https://files.catbox.moe/ln00jb.mp4",
+"https://graph.org/file/83ebf52e8bbf138620de7.mp4",
+"https://files.catbox.moe/0fq20c.mp4",
+"https://graph.org/file/318eac81e3d4667edcb77.mp4",
+"https://graph.org/file/7c1aa59649fbf3ab422da.mp4",
+"https://files.catbox.moe/t0nepm.mp4",
+    
 ]
 
 ]
